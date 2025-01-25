@@ -1,7 +1,7 @@
 ---  
-layout: post  
-title: "My First File"  
-date: 2025-01-25 12:00:00 -0000  
-tags: [example, jekyll]  
----
+title: TITLE  
+date: 2025-01-25 09:45:08 +0800  
+categories: [TOP_CATEGORIE, SUB_CATEGORIE]  
+tags: [TAG]  
+--- 
 hello word
